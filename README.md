@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RostislavBerezhnoy/RostislavBerezhnoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align='center'> Hi there 👋 I'm Rostislav Berezhnoy</h1>
+
+<strong>I'm a tech enthusiast who loves to learn about new things.</strong>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RostislavBerezhnoy&show_icons=true)
+
+<h1>Stay awesome!</h1>
