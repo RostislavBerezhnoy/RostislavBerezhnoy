@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align='center'> Hi there 👋 I'm Rostislav Berezhnoy</h1>
+<h1 align='center'> Hi there 👋 My name is Rostislav Berezhnoy</h1>
 
 <strong>I'm a tech enthusiast who loves to learn about new things.</strong>
 
