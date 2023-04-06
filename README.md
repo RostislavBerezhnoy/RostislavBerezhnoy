@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'> Hi there 👋 My name is Rostislav Berezhnoy</h1>
 
-<strong>I'm a tech enthusiast who loves to learn about new things.</strong>
+I'm a tech enthusiast who loves to learn about new things. Please feel free to reach me anytime for any questions.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RostislavBerezhnoy&show_icons=true)
 
