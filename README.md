@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a tech enthusiast who loves to learn about new things. Please feel free to reach me anytime for any questions.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RostislavBerezhnoy&show_icons=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RostislavBerezhnoy&show_icons=true)
 
 <h1>Stay awesome!</h1>
